@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Selection_003.png.png)
+![](./Selection_003.png)
 
 ### Links
 
@@ -107,6 +107,5 @@ I am eager to take my web development abilities to the next level, and an area I
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@AmaanDevelops](https://www.frontendmentor.io/profile/amaandevelops)
 - Twitter - [@AmaanDevelops](https://www.twitter.com/amaandevelops)
