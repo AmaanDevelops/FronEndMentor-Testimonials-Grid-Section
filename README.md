@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-layout-using-css-grid-Ak0mS8J0Ab)
+- Live Site URL: [Add live site URL here](https://clever-puffpuff-a555c2.netlify.app/)
 
 ## My process
 
